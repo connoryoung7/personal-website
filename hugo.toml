@@ -16,4 +16,8 @@ description = 'Personal website of Connor Young'
 	[[params.socialIcons]]
 	name = "linkedin"
 	url = "https://www.linkedin.com/in/connor-young1/"
+
+	[[params.socialIcons]]
+	name = "github"
+	url = "https://github.com/connoryoung7"
  
