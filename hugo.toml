@@ -1,3 +1,19 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Connor Young - Personal Website'
+title = 'Connor Young'
+theme = 'PaperMod'
+
+[params]
+env = 'production'
+title = 'Connor Young'
+description = 'Personal website of Connor Young'
+
+	[params.profileMode]
+	enabled = true # needs to be explicitly set
+	title = "Welcome there folks! \U0001F44B"
+	subtitle = "Full-stack engineer. Startup founder."
+
+	[[params.socialIcons]]
+	name = "linkedin"
+	url = "https://www.linkedin.com/in/connor-young1/"
+ 
