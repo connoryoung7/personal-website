@@ -20,4 +20,11 @@ description = 'Personal website of Connor Young'
 	[[params.socialIcons]]
 	name = "github"
 	url = "https://github.com/connoryoung7"
+
+[menu]
+	[[menu.main]]
+	identifier = "about"
+	name = "About"
+	url = "/about/"
+	weight = 20
  
