@@ -14,5 +14,84 @@
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Hey, I’m Connor: a product-minded software engineer with experience across a wide range of technologies. I studied Electrical and Computer Engineering at Carnegie Mellon, and since then I’ve pretty much lived in the startup world. I’ve worked at companies across the whole spectrum — a tiny founding team, fast-growing seed and Series A startups, and a Series D unicorn that became one of the fastest-growing digital health companies ever. The pace was chaotic at times, but I’ve always found the energy of startups exhilarating and enjoyed building things from scratch.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&lt;p&gt;Here are some of my skills:&lt;/p&gt;
+&lt;section class=&#34;skills&#34;&gt;
+
+  &lt;div class=&#34;skill-section&#34;&gt;
+    &lt;h3&gt;Programming Languages&lt;/h3&gt;
+    &lt;div class=&#34;tag-list&#34;&gt;
+      &lt;span class=&#34;tag&#34;&gt;Python&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Go&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;TypeScript&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;JavaScript&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;SQL&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Java&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;skill-section&#34;&gt;
+    &lt;h3&gt;Frameworks &amp; Libraries&lt;/h3&gt;
+    &lt;div class=&#34;tag-list&#34;&gt;
+      &lt;span class=&#34;tag&#34;&gt;FastAPI&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;NodeJS&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;ExpressJS&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Flask&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;React&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Vite&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;VueJS&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;skill-section&#34;&gt;
+    &lt;h3&gt;Backend &amp; Distributed Systems&lt;/h3&gt;
+    &lt;div class=&#34;tag-list&#34;&gt;
+      &lt;span class=&#34;tag&#34;&gt;REST APIs&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Event-Driven Architecture&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Message Queues&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Background Jobs&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Idempotency&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Rate Limiting&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;skill-section&#34;&gt;
+    &lt;h3&gt;Databases &amp; Data Stores&lt;/h3&gt;
+    &lt;div class=&#34;tag-list&#34;&gt;
+      &lt;span class=&#34;tag&#34;&gt;PostgreSQL&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Redis&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;SQLite&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;OLTP Systems&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Schema Design&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;skill-section&#34;&gt;
+    &lt;h3&gt;Infrastructure &amp; Cloud&lt;/h3&gt;
+    &lt;div class=&#34;tag-list&#34;&gt;
+      &lt;span class=&#34;tag&#34;&gt;Docker&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Linux&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Ansible&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;CI/CD&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Cloud Networking&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;skill-section&#34;&gt;
+    &lt;h3&gt;Engineering Practices&lt;/h3&gt;
+    &lt;div class=&#34;tag-list&#34;&gt;
+      &lt;span class=&#34;tag&#34;&gt;System Design&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Observability&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Scalability&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Technical Leadership&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;/section&gt;</description>
+    </item>
   </channel>
 </rss>

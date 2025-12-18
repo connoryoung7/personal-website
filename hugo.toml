@@ -28,3 +28,8 @@ description = 'Personal website of Connor Young'
 	url = "/about/"
 	weight = 20
  
+	[[menu.main]]
+	identifier = "skills"
+	name = "Skills"
+	url = "/skills/"
+	weight = 20
