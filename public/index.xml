@@ -43,6 +43,7 @@
       &lt;span class=&#34;tag&#34;&gt;Flask&lt;/span&gt;
       &lt;span class=&#34;tag&#34;&gt;React&lt;/span&gt;
       &lt;span class=&#34;tag&#34;&gt;Vite&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;Django&lt;/span&gt;
       &lt;span class=&#34;tag&#34;&gt;VueJS&lt;/span&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -62,9 +63,10 @@
   &lt;div class=&#34;skill-section&#34;&gt;
     &lt;h3&gt;Databases &amp; Data Stores&lt;/h3&gt;
     &lt;div class=&#34;tag-list&#34;&gt;
+      &lt;span class=&#34;tag&#34;&gt;MySQL&lt;/span&gt;
       &lt;span class=&#34;tag&#34;&gt;PostgreSQL&lt;/span&gt;
-      &lt;span class=&#34;tag&#34;&gt;Redis&lt;/span&gt;
-      &lt;span class=&#34;tag&#34;&gt;SQLite&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;DynamoDB&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;BigQuery&lt;/span&gt;
       &lt;span class=&#34;tag&#34;&gt;OLTP Systems&lt;/span&gt;
       &lt;span class=&#34;tag&#34;&gt;Schema Design&lt;/span&gt;
     &lt;/div&gt;
@@ -74,8 +76,11 @@
     &lt;h3&gt;Infrastructure &amp; Cloud&lt;/h3&gt;
     &lt;div class=&#34;tag-list&#34;&gt;
       &lt;span class=&#34;tag&#34;&gt;Docker&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;AWS&lt;/span&gt;
       &lt;span class=&#34;tag&#34;&gt;Linux&lt;/span&gt;
       &lt;span class=&#34;tag&#34;&gt;Ansible&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;GCP&lt;/span&gt;
+      &lt;span class=&#34;tag&#34;&gt;GitHub Actions&lt;/span&gt;
       &lt;span class=&#34;tag&#34;&gt;CI/CD&lt;/span&gt;
       &lt;span class=&#34;tag&#34;&gt;Cloud Networking&lt;/span&gt;
     &lt;/div&gt;
