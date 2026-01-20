@@ -21,6 +21,7 @@ SHELL := /bin/bash
 HUGO ?= hugo
 PORT ?= 1313
 ENV ?= development
+BASEURL ?= http://localhost:$(PORT)/
 THEME ?=
 PUBLIC_DIR ?= public
 RESOURCES_DIR ?= resources
