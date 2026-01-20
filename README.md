@@ -1,2 +1,9 @@
 # personal-website
-Personal website (soon to be hosted)
+My personal website
+
+## Technologies
+- Hugo (Static Site Generator)
+- GitHub Pages (Hosting)
+- GitHub Actions (CI/CD)
+
+## Instructions

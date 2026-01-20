@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://connoryoung.dev/'
 languageCode = 'en-us'
 title = 'Connor Young'
 theme = 'PaperMod'
@@ -28,3 +28,8 @@ description = 'Personal website of Connor Young'
 	url = "/about/"
 	weight = 20
  
+	[[menu.main]]
+	identifier = "skills"
+	name = "Skills"
+	url = "/skills/"
+	weight = 20
